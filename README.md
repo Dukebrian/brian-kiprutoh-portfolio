@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Brian Kiprutoh
+#  Hi, I'm Brian Kiprutoh
 
-🎓 ICT Student | 🎨 Graphic Designer | 💻 C++ Developer  
+ ICT Student |  Graphic Designer | 💻 C++ Developer  
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am passionate about technology and design. I create logos and also build systems using C++.
 
 ---
@@ -22,5 +22,5 @@ I am passionate about technology and design. I create logos and also build syste
 
 ---
 
-## 📫 Contact
+##  Contact
 - Email:dukebrian.1029@gmail.com
