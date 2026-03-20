@@ -23,4 +23,4 @@ I am passionate about technology and design. I create logos and also build syste
 ---
 
 ## 📫 Contact
-- Facebook: Kapcholyo FC
+- Email:dukebrian.1029@gmail.com
